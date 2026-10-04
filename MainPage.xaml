@@ -10,9 +10,18 @@
                    Placeholder="Votre nom"/>
             <Label Text="Date de naissance" FontSize="16"/>
             <DatePicker Date="{Binding DateNaissance}"/>
+            <Label Text="La date de naissance ne peut pas être dans le futur."
+                   TextColor="Red"
+                   IsVisible="{Binding DateFuture}"/>
             <Button Text="Calculer"
                     Command="{Binding CalculerCommand}"/>
+            <Button Text="Effacer"
+                    Command="{Binding EffacerCommand}"/>
             <Label Text="{Binding Resultat}" FontSize="20"
+                   IsVisible="{Binding ResultatVisible}"/>
+            <Label Text="{Binding Message}" FontSize="18" FontAttributes="Bold"
+                   IsVisible="{Binding ResultatVisible}"/>
+            <Label Text="{Binding ProchainAnniversaire}" FontSize="16"
                    IsVisible="{Binding ResultatVisible}"/>
         </VerticalStackLayout>
     </ScrollView>
