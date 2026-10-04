@@ -40,36 +40,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.MainPage.xa
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/DELL/Documents/CalculateurAge/CalculateurAge/phases/A/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.phases.A.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = phases\A\MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = phases\A\MainPage.xaml
-
-[C:/Users/DELL/Documents/CalculateurAge/CalculateurAge/phases/B/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.phases.B.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = phases\B\MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = phases\B\MainPage.xaml
-
-[C:/Users/DELL/Documents/CalculateurAge/CalculateurAge/phases/B/Views/ResultatPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.phases.B.Views.ResultatPage.xaml
-build_metadata.AdditionalFiles.TargetPath = phases\B\Views\ResultatPage.xaml
-build_metadata.AdditionalFiles.RelativePath = phases\B\Views\ResultatPage.xaml
-
-[C:/Users/DELL/Documents/CalculateurAge/CalculateurAge/phases/C/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.phases.C.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = phases\C\MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = phases\C\MainPage.xaml
-
-[C:/Users/DELL/Documents/CalculateurAge/CalculateurAge/phases/D/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.phases.D.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = phases\D\MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = phases\D\MainPage.xaml
-
 [C:/Users/DELL/Documents/CalculateurAge/CalculateurAge/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.Resources.Styles.Colors.xaml
