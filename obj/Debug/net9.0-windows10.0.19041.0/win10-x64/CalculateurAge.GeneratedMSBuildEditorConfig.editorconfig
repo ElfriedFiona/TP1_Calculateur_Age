@@ -81,3 +81,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/DELL/Documents/CalculateurAge/CalculateurAge/Views/ResultatPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CalculateurAge.Views.ResultatPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ResultatPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ResultatPage.xaml
